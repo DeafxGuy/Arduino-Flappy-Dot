@@ -1,5 +1,11 @@
 # Arduino-Flappy-Dot
 Simple Flappy bird style game on an arduino and an 8x8 Dot matrix display!
+## Info:
+* The player dot is constantly falling
+* Pressing the button moves the player up
+* Obstacles move across the screen from right to left
+* Upon coliding with an obstacle or falling off the bottom of the dot matrix, a game over screen occurs
+* Game over screen displays a sad face, then your score (represented as 1 pixel = 1 point)
 
 ## Components: 
 * Arduino board (any should do)
