@@ -10,4 +10,4 @@ Simple Flappy bird style game on an arduino and an 8x8 Dot matrix display!
 * 7 M-M Cables
 
 ### Wiring Guide for Breadboard:
-![Breadboard-Flappydot](Breadboard.png)
+![Breadboard](Breadboard-flappydot.png)
